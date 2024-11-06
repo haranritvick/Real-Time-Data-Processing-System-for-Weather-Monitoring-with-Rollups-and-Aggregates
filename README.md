@@ -100,15 +100,16 @@ Using MongoDB for data storage, the database includes collections for raw weathe
    ```
 2. ### Setup Client:
 
-  `cd client
+  ```
+  cd client
   npm install axios dotenv
   npm start
-`
+```
 3. ### Setup Server:
   ```
   cd ../server
   npm install express axios dotenv cors mongoose body-parser nodemon
-  npm start
+  npx nodemon app.js
 
   ```
 ## Edge Cases
