@@ -121,3 +121,12 @@ Using MongoDB for data storage, the database includes collections for raw weathe
 - **API Connection Issues:** Gracefully handles connection issues with retries or error logging.
 - **Invalid Alert Configuration:** Ensures that alerts have valid conditions, types, and values. Return appropriate error messages for invalid configurations.
 - **Weather Data Parsing:** Catches and handles errors during parsing or missing fields in API responses.
+
+## Screenshots
+![image](https://github.com/user-attachments/assets/310d5c66-c1d1-4e49-854b-0dfbba82acb7)
+
+![image](https://github.com/user-attachments/assets/57b9c3fe-32b6-40e0-8676-ade8fcc05a6a)
+![image](https://github.com/user-attachments/assets/2bef76a2-c7c8-444f-acd9-bbdba5e6d128)
+![image](https://github.com/user-attachments/assets/2331670c-86c4-477b-8812-903a5f8b9bb3)
+
+
