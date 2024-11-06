@@ -94,9 +94,10 @@ Using MongoDB for data storage, the database includes collections for raw weathe
 
 ## Setup Instructions
 1. ### Clone the Repository:
-   `
-   git clone
-   cd Real-Time-Data-Processing-System-for-Weather-Monitoring-with-Rollups-and-Aggregates`
+   ```
+   git clone https://github.com/haranritvick/Real-Time-Data-Processing-System-for-Weather-Monitoring-with-Rollups-and-Aggregates
+   cd Real-Time-Data-Processing-System-for-Weather-Monitoring-with-Rollups-and-Aggregates
+   ```
 2. ### Setup Client:
 
   `cd client
